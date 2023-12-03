@@ -1,0 +1,6 @@
+doctr==1.9.0
+fastapi==0.104.1
+httpx==0.25.1
+python_doctr==0.7.0
+uvicorn==0.24.0
+tensorflow==2.14.0
